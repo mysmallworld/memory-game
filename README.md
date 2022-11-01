@@ -1,4 +1,4 @@
 # memory-game
 Vous aimez les memories ? 
-En voici un fait avec react avec le thème "joueurs de foot". 
+En voici un fait en react avec le thème "joueurs de foot". 
 Bonne partie 👍🏼
